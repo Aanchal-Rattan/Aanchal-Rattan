@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanchal-rattan" alt="aanchal-rattan" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1626229/screenshots/11218606/media/7581651874befbe5cacff3be3bee6bcb.jpg?compress=1&resize=800x600&vertical=top">
 
 - 🌱 I’m currently learning **React**
 
